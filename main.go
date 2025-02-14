@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fmt"
+	"fmt" // первый комментарий
 )
 
 func Add(a, b int) int {
